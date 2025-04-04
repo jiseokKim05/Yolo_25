@@ -64,3 +64,6 @@ print(f"프레임별 사진이 '{output_dir}' 디렉토리에 저장되었습니
 !zip -r output_frames.zip {output_dir}
 files.download('output_frames.zip')
 ```
+
+![Uploading image.png…]()
+
